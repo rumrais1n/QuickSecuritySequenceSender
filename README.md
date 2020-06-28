@@ -1,4 +1,4 @@
-# Quick Secirity Sequence Sender
+# Quick Security Sequence Sender
 
 ## 概要
 RDPセッションにセキュリティーシーケンス(Ctrl+Alt+End)を送るスクリプトです。  
